@@ -1,21 +1,30 @@
 # STINE OLSEN
-#### Går 3.året bachelor i Datateknologi ved Universitetet i Bergen
+
 
 **Hei!** Jeg er Stine 22 år gammel, fra Tromsø, og er interessert i utvikling og design.
 Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i **[Figma](https://www.figma.com/)**.
 
 
-<!--
-**STIOlsen/STIOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Studie-relatert
+**Går 3.året bachelor i Datateknologi ved Universitetet i Bergen**  
+  * [Oversikt over mine emner](https://github.com/STIOlsen/Mine-Studie-Emner)
 
-Here are some ideas to get you started:
+📫  stine.olsen.no@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Prosjekter
+🛠**Under construction**🛠 
+
+
+## Hobbyer
+📸**Fotografering** 
+  * [  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'> Instagram](https://www.instagram.com/s.0lsen/)  
+
+🎲**Brettspill**
+  * Cluedo og settlers er favorittene
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/STIOlsen)  
+
+
+
