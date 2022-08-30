@@ -1,4 +1,9 @@
-### Hi there 👋
+# STINE OLSEN
+#### Går 3.året bachelor i Datateknologi ved Universitetet i Bergen
+
+**Hei!** Jeg er Stine 22 år gammel, fra Tromsø, og er interessert i utvikling og design.
+Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i **[Figma](https://www.figma.com/)**.
+
 
 <!--
 **STIOlsen/STIOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
