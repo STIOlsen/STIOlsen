@@ -2,7 +2,7 @@
 
 
 **Hei!** Jeg er Stine 22 år gammel, fra Tromsø, og er interessert i utvikling og design.
-Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i **[Figma](https://www.figma.com/)**.
+Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i Figma.
 
 
 ## Studie-relatert
@@ -13,7 +13,7 @@ Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtid
 
 
 ## Prosjekter
-🛠**Under construction**🛠 
+ * [Tower of Hanoi (haskell) ](https://github.com/STIOlsen/Tower-of-Hanoi)
 
 
 ## Hobbyer
