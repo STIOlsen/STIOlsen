@@ -2,7 +2,7 @@
 
 
 **Hei!** Jeg er Stine 22 år gammel, fra Tromsø, og er interessert i utvikling og design.
-Jeg liker best språkene **Java, haskell og python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i Figma.
+Jeg liker best språkene **Haskell, Java og Python**, i den rekkefølgen. Samtidig elsker jeg å fikle på (interaktive) prototyper i Figma.
 
 
 ## Studie-relatert
