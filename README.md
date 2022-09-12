@@ -14,6 +14,7 @@ Jeg liker best språkene **Haskell, Java og Python**, i den rekkefølgen. Samtid
 
 ## Prosjekter
  * [Tower of Hanoi (haskell) ](https://github.com/STIOlsen/Tower-of-Hanoi)
+ * [Interakjsonsdesign og prototyping](https://github.com/STIOlsen/Interaksjonsdesign-og-prototyping)
 
 
 ## Hobbyer
